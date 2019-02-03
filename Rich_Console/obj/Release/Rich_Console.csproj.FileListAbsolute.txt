@@ -1,0 +1,6 @@
+C:\Users\sean\source\class libraries\Rich_Console\Rich_Console\bin\Release\Rich_Console.xml
+C:\Users\sean\source\class libraries\Rich_Console\Rich_Console\bin\Release\Rich_Console.dll
+C:\Users\sean\source\class libraries\Rich_Console\Rich_Console\bin\Release\Rich_Console.pdb
+C:\Users\sean\source\class libraries\Rich_Console\Rich_Console\obj\Release\Rich_Console.csproj.CoreCompileInputs.cache
+C:\Users\sean\source\class libraries\Rich_Console\Rich_Console\obj\Release\Rich_Console.dll
+C:\Users\sean\source\class libraries\Rich_Console\Rich_Console\obj\Release\Rich_Console.pdb
