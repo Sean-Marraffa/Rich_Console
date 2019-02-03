@@ -1,0 +1,12 @@
+C:\Users\sean\source\repos\Rich_Console\Rich_Console\bin\Debug\Rich_Console.dll
+C:\Users\sean\source\repos\Rich_Console\Rich_Console\bin\Debug\Rich_Console.pdb
+C:\Users\sean\source\repos\Rich_Console\Rich_Console\obj\Debug\Rich_Console.csprojAssemblyReference.cache
+C:\Users\sean\source\repos\Rich_Console\Rich_Console\obj\Debug\Rich_Console.csproj.CoreCompileInputs.cache
+C:\Users\sean\source\repos\Rich_Console\Rich_Console\obj\Debug\Rich_Console.dll
+C:\Users\sean\source\repos\Rich_Console\Rich_Console\obj\Debug\Rich_Console.pdb
+C:\Users\sean\source\class libraries\Rich_Console\Rich_Console\bin\Debug\Rich_Console.xml
+C:\Users\sean\source\class libraries\Rich_Console\Rich_Console\bin\Debug\Rich_Console.dll
+C:\Users\sean\source\class libraries\Rich_Console\Rich_Console\bin\Debug\Rich_Console.pdb
+C:\Users\sean\source\class libraries\Rich_Console\Rich_Console\obj\Debug\Rich_Console.csproj.CoreCompileInputs.cache
+C:\Users\sean\source\class libraries\Rich_Console\Rich_Console\obj\Debug\Rich_Console.dll
+C:\Users\sean\source\class libraries\Rich_Console\Rich_Console\obj\Debug\Rich_Console.pdb

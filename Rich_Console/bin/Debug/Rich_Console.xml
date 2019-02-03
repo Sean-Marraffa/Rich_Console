@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Rich_Console</name>
+    </assembly>
+    <members>
+        <member name="T:Rich_Console.RichConsole">
+            <summary>
+            Use to output Console to RichTextBox
+            </summary>
+        </member>
+        <member name="M:Rich_Console.RichConsole.#ctor(System.Windows.Forms.RichTextBox)">
+            <summary>
+            Set the RichTextBox for output.
+            </summary>
+            <param name="richTextBox"></param>
+        </member>
+        <member name="M:Rich_Console.RichConsole.Write(System.Char)">
+            <summary>
+            Writes text to output.
+            </summary>
+            <param name="value"></param>
+        </member>
+        <member name="P:Rich_Console.RichConsole.Encoding">
+            <summary>
+            Encodes text UTF8.
+            </summary>
+        </member>
+    </members>
+</doc>
