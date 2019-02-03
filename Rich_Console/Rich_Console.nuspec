@@ -6,13 +6,13 @@
     <title>$title$</title>
     <authors>Sean Marraffa</authors>
     <owners>Sean Marraffa</owners>
-    <license>https://github.com/Sean-Marraffa/Rich_Console/blob/master/LICENSE</license>
+    <licenseUrl>https://github.com/Sean-Marraffa/Rich_Console/blob/master/LICENSE</licenseUrl>
     <projectUrl>https://github.com/Sean-Marraffa/Rich_Console</projectUrl>
-    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
+    <iconUrl>https://raw.githubusercontent.com/Sean-Marraffa/Rich_Console/master/console-512.ico</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>$description$</description>
-    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <description>Output Console to RichTextBox.</description>
+    <releaseNotes>This is the initial release. It ouputs console to RichTextBox</releaseNotes>
     <copyright>Copyright 2019</copyright>
-    <tags>Tag1 Tag2</tags>
+    <tags>Console Output RichTextBox</tags>
   </metadata>
 </package>
